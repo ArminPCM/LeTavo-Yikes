@@ -1,1 +1,9 @@
-Test
+Scripts are in Test folder.
+
+
+
+Required Libraries:
+
+HMA
+DHMA
+EGT 2.0
